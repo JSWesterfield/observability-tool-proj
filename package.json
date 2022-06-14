@@ -1,0 +1,19 @@
+{
+  "name": "observability-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSWesterfield/observability-tool-proj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSWesterfield/observability-tool-proj/issues"
+  },
+  "homepage": "https://github.com/JSWesterfield/observability-tool-proj#readme"
+}
